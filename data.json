@@ -6,13 +6,13 @@
          "resi_num": "JK1-16DEC23-nds8",
          "sell_id": "INV-230011066041",
          "co_name": "PT MERAPI UTAMA PHARMA - JK1",
-         "co_mobile": "021-46821660",
+         "co_mobile": "02146821660",
          "co_prov": "DKI Jakarta",
          "co_city": "Kota Jakarta Timur",
          "co_count": "Cakung",
          "co_add": "Jl. Pulo Buaran Raya No. 4 Blok III EE Kav. No. 1. Kawasan I",
          "coe_name": "100000002721416 - ALIA HOSPITAL, RSU",
-         "coe_mobile": "021-46821660",
+         "coe_mobile": "02146821660",
          "coe_prov": "DKI Jakarta",
          "coe_city": "Kota Jakarta Timur",
          "coe_count": "Duren Sawit",
@@ -23,8 +23,8 @@
          "cod": 0,
          "remark": "08.00-17",
          "senderPostalcode": 13930,
-         "senderLonglat": "-6.2687694,106.8028143",
-         "senderLatong": "-106.8028143, 6.2687694"
+         "senderLonglat": "",
+         "senderLatong": ""
         },
         {
          "so_num": 2300101055244,
